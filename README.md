@@ -6,4 +6,4 @@
 
 # Graciela Strand
 
-# Taras Glushko
+# Taras Max Glushko
