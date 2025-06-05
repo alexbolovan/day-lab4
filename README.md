@@ -4,6 +4,6 @@
 
 # Alex Bolovan
 
-# Graciela Strand
+# Graciela Celeste Strand
 
 # Taras Glushko
